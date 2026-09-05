@@ -10,7 +10,7 @@ const exchangeRates = {
 };
 
 // ===== رقم واتساب - عدّله من هنا =====
-const WHATSAPP_NUMBER = "963940537461"; // رقم سوريا بصيغة واتساب الدولية
+const WHATSAPP_NUMBER = "963940573461"; // رقم سوريا بصيغة واتساب الدولية
 
 // ===== كلمة مرور لوحة الإدارة - عدّلها من هنا =====
 const ADMIN_PASSWORD = "kashmir2025";
@@ -18,9 +18,9 @@ const ADMIN_PASSWORD = "kashmir2025";
 // ===== روابط التواصل الاجتماعي - عدّلها من هنا =====
 const socialLinks = {
   whatsapp: `https://wa.me/${WHATSAPP_NUMBER}`,
-  instagram: "#", // ضع رابط الانستغرام هنا
+  instagram: "https://www.instagram.com/kashmir_shall?igsi=MWdwN29kcnh2dnhnNg%3D%3D&utm_source=qr", // ضع رابط الانستغرام هنا
   tiktok: "#",    // ضع رابط التيك توك هنا
-  facebook: "#"   // ضع رابط الفيسبوك هنا
+  facebook: "https://www.facebook.com/share/1YKAdPSVW9/?mibextid=wwXIfr"   // ضع رابط الفيسبوك هنا
 };
 
 // ===== التصنيفات الفرعية =====
